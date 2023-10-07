@@ -37,19 +37,13 @@ I am a third-year Software Engineering student actively seeking an internship op
 ### 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/toaneus">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=tonaeus&show_icons=true&theme=dark"
-      alt="Your GitHub Stats"
-      style="background-color: transparent"
-    />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=tonaeus&show_icons=true&locale=en" alt="tonaeus" />
 </p>
 
 ---
 ### 🧰 Languages and Tools
 
-<img align="left" alt="" width="50px" style="padding-right:15px;" src="" />
+<!-- <img align="left" alt="" width="50px" style="padding-right:15px;" src="" /> -->
 <img align="left" alt="Python" width="50px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="C" width="50px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="left" alt="C++" width="50px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
@@ -63,6 +57,10 @@ I am a third-year Software Engineering student actively seeking an internship op
 <img align="left" alt="Google Cloud Platform" width="50px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
 <img align="left" alt="Git" width="50px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="VS Code" width="50px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="left" alt="Xcode" width="50px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" />
+<img align="left" alt="Jupyter Notebook" width="50px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
 <img align="left" alt="Vim" width="50px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-plain.svg" />
-
+<img align="left" alt="MacOS" width="50px" style="padding-right:15px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Finder_Icon_macOS_Big_Sur.png/600px-Finder_Icon_macOS_Big_Sur.png?20200704175319" />
+<img align="left" alt="Ubuntu" width="50px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
+<img align="left" alt="Ardiuno" width="50px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
 
