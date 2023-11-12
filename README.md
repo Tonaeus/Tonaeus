@@ -37,8 +37,10 @@ I am a third-year Software Engineering student actively seeking an internship op
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tonaeus&show_icons=true&locale=en" alt="tonaeus" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=tonaeus&show_icons=true&locale=en" height="150" alt="tonaeus" /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tonaeus&show_icons=true&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&" height="150" alt="tonaeus" />
 </p>
+
 
 ---
 ### 🧰 Languages and Tools
