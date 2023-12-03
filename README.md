@@ -28,7 +28,7 @@ I am a third-year Software Engineering student actively seeking an internship op
 
 - 🔭 I'm currently pursuing my degree in Software Engineering.
 - 🌱 I'm on a journey to apply and expand my technical skills.
-- 💬 I have a strong passion for chess, history, and philosophy.
+- 💬 I have a strong passion for chess, philosophy, and reading.
 - 📫 How to reach me: [Email](mailto:tonytran.tt890@gmail.com) or [LinkedIn](https://www.linkedin.com/in/tonaeus/).
 - 😄 Pronouns: He/Him
 
