@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ### 👋 Hello, World!
 
-I am a third-year Software Engineering student passionate about using software solutions to solve real-world problems. With a strong passion for solving complex problems, exploring new technologies, and developing innovative software, I am dedicated to contributing my skills and knowledge to the ever-evolving tech landscape.
+I am a third-year Software Engineering student with an interest in using software solutions to solve real-world problems. With a passion for exploring new technologies, building meaningful connections, and developing innovative systems, I am dedicated to contributing my skills and knowledge to the ever-evolving tech landscape.
 
 ---
 
